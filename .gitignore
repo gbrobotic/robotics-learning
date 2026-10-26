@@ -1,0 +1,21 @@
+# Original Claude course — do not push
+COURSE.html
+FLASHCARDS.md
+CHEATSHEET.md
+code/
+assets/
+images/
+
+# Course archives
+*.zip
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
