@@ -7,7 +7,8 @@ I'm an ECE student learning robotics step by step: OpenCV → ROS 2 → navigati
 | Chapter | Topic | Status |
 |---|---|---|
 | 1 | Python + NumPy | ✅ Done ([ex_c01.py](opencv_practice/chapter01/ex_c01.py)) |
-| 2 | Images | 🔄 In progress |
+| 2 | Images | ✅ Done ([ex_c02.py](opencv_practice/chapter02/ex_c02.py)) |
+| 3 | Drawing | 🔄 In progress |
 
 ## Tools
 

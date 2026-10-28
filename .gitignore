@@ -26,6 +26,8 @@ venv/
 # Generated images
 opencv_practice/**/*.png
 opencv_practice/**/*.jpg
+# ...except input images
+!opencv_practice/data/**
 
 # Local only
 CLAUDE.md
