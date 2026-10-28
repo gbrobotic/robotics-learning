@@ -19,3 +19,9 @@ venv/
 .vscode/
 .idea/
 .DS_Store
+
+# Original course folder — do not push
+/opencv_robotics_course/
+
+# Generated test images
+opencv_practice/chapter01/test.png
