@@ -1,4 +1,4 @@
-# Original Claude course — do not push
+# Original course — do not push
 COURSE.html
 FLASHCARDS.md
 CHEATSHEET.md
@@ -23,5 +23,10 @@ venv/
 # Original course folder — do not push
 /opencv_robotics_course/
 
-# Generated test images
-opencv_practice/chapter01/test.png
+# Generated images
+opencv_practice/**/*.png
+opencv_practice/**/*.jpg
+
+# Local only
+CLAUDE.md
+.claude/
