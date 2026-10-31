@@ -56,3 +56,5 @@ print("Saved", left_path, "and", right_path)
 # 7. Comment mein shape guess karke likha (480, 320, 3) -> galat, woh shapes.png ka size tha, arena.png ka nahi.
 #    Pehle run karo, phir comment mein sahi value likho.
 # 8. img[:, ::-1] ->::-1 ulta karta hai (reverses), kaat-ta nahi (doesn't cut). Slot 1 = rows, slot 2 = columns.
+
+

@@ -28,6 +28,8 @@ opencv_practice/**/*.png
 opencv_practice/**/*.jpg
 # ...except input images
 !opencv_practice/data/**
+# ...but not resized copies (code makes them again)
+opencv_practice/data/*_small.*
 
 # Local only
 CLAUDE.md
